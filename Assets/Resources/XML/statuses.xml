@@ -1,0 +1,10 @@
+<WeaponCollection>
+	<Weapons>
+		<Weapon name="StarterSword">
+			<Attack>5</Attack>
+		</Weapon>
+		<Weapon name="BetterSword">
+			<Attack>10</Attack>
+		</Weapon>
+	</Weapons>
+</WeaponCollection>

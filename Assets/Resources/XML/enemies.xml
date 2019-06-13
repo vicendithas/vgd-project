@@ -1,0 +1,17 @@
+<EnemyCollection>
+	<Enemies>
+		<Enemy name="Goblin">
+			<Type>Melee</Type>
+			<Health>2</Health>
+			<Weapon>1</Weapon>
+			<Shield>0</Shield>
+			<Spell>0</Spell>
+			<WanderSpeed>1</WanderSpeed>
+			<WanderTurnRate>100</WanderTurnRate>
+			<ChaseSpeed>1.8</ChaseSpeed>
+			<ChaseTurnRate>200</ChaseTurnRate>
+			<FOVAngle>90</FOVAngle>
+			<FOVDistance>15</FOVDistance>
+		</Enemy>
+	</Enemies>
+</EnemyCollection>

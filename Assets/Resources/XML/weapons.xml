@@ -1,0 +1,17 @@
+<Weapons>
+	<Weapon name="StarterSword">
+		<Type>Melee</Type>
+		<Damage>5</Damage>
+		<Atrributes>0</Attributes>
+	</Weapon>
+	<Weapon name="BetterSword">
+		<Type>Melee</Type>
+		<Damage>10</Damage>
+		<Atrributes>1,2,3</Attributes>
+	</Weapon>
+	<Weapon name="BasicBow">
+		<Type>Ranged</Type>
+		<Damage>3</Damage>
+		<Atrributes>0</Attributes>
+	</Weapon>
+</Weapons>

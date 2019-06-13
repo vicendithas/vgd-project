@@ -1,0 +1,8 @@
+<Spells>
+	<Spell name="Fireball">
+		<Type>Ranged</Type>
+		<Damage>10/Damage>
+		<Atrributes>1</Attributes>
+		<Cooldown>15</Cooldown>
+	</Spell>
+</Spells>
